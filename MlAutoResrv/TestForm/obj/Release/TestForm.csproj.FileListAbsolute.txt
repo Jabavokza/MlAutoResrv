@@ -1,0 +1,49 @@
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\TestForm\bin\Release\TestForm.exe
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\TestForm\bin\Release\TestForm.pdb
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\TestForm\bin\Release\MlAutoResrv.dll
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\TestForm\bin\Release\Newtonsoft.Json.dll
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\TestForm\bin\Release\MlAutoResrv.pdb
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\TestForm\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\TestForm\bin\Release\Newtonsoft.Json.xml
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\TestForm\obj\Release\TestForm.csprojResolveAssemblyReference.cache
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\TestForm\obj\Release\TestForm.Form1.resources
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\TestForm\obj\Release\TestForm.Properties.Resources.resources
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\TestForm\obj\Release\TestForm.csproj.GenerateResource.cache
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\TestForm\obj\Release\TestForm.csproj.CoreCompileInputs.cache
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\TestForm\obj\Release\TestForm.csproj.CopyComplete
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\TestForm\obj\Release\TestForm.exe
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\TestForm\obj\Release\TestForm.pdb
+D:\Project\Pong\Project\MlAutoResrv\TestForm\bin\Release\TestForm.exe
+D:\Project\Pong\Project\MlAutoResrv\TestForm\bin\Release\TestForm.pdb
+D:\Project\Pong\Project\MlAutoResrv\TestForm\bin\Release\MlAutoResrv.dll
+D:\Project\Pong\Project\MlAutoResrv\TestForm\bin\Release\Newtonsoft.Json.dll
+D:\Project\Pong\Project\MlAutoResrv\TestForm\bin\Release\MlAutoResrv.pdb
+D:\Project\Pong\Project\MlAutoResrv\TestForm\bin\Release\Newtonsoft.Json.pdb
+D:\Project\Pong\Project\MlAutoResrv\TestForm\bin\Release\Newtonsoft.Json.xml
+D:\Project\Pong\Project\MlAutoResrv\TestForm\obj\Release\TestForm.csprojResolveAssemblyReference.cache
+D:\Project\Pong\Project\MlAutoResrv\TestForm\obj\Release\TestForm.Form1.resources
+D:\Project\Pong\Project\MlAutoResrv\TestForm\obj\Release\TestForm.Properties.Resources.resources
+D:\Project\Pong\Project\MlAutoResrv\TestForm\obj\Release\TestForm.csproj.GenerateResource.cache
+D:\Project\Pong\Project\MlAutoResrv\TestForm\obj\Release\TestForm.csproj.CoreCompileInputs.cache
+D:\Project\Pong\Project\MlAutoResrv\TestForm\obj\Release\TestForm.csproj.CopyComplete
+D:\Project\Pong\Project\MlAutoResrv\TestForm\obj\Release\TestForm.exe
+D:\Project\Pong\Project\MlAutoResrv\TestForm\obj\Release\TestForm.pdb
+D:\Project\Pong\Project\MlAutoResrv\TestForm\bin\Release\log4net.dll
+D:\Project\Pong\Project\MlAutoResrv\TestForm\bin\Release\log4net.xml
+C:\Users\pongk\Downloads\MlAutoResrv\TestForm\bin\Release\TestForm.exe
+C:\Users\pongk\Downloads\MlAutoResrv\TestForm\bin\Release\TestForm.pdb
+C:\Users\pongk\Downloads\MlAutoResrv\TestForm\bin\Release\MlAutoResrv.dll
+C:\Users\pongk\Downloads\MlAutoResrv\TestForm\bin\Release\log4net.dll
+C:\Users\pongk\Downloads\MlAutoResrv\TestForm\bin\Release\Newtonsoft.Json.dll
+C:\Users\pongk\Downloads\MlAutoResrv\TestForm\bin\Release\MlAutoResrv.pdb
+C:\Users\pongk\Downloads\MlAutoResrv\TestForm\bin\Release\log4net.xml
+C:\Users\pongk\Downloads\MlAutoResrv\TestForm\bin\Release\Newtonsoft.Json.pdb
+C:\Users\pongk\Downloads\MlAutoResrv\TestForm\bin\Release\Newtonsoft.Json.xml
+C:\Users\pongk\Downloads\MlAutoResrv\TestForm\obj\Release\TestForm.csprojAssemblyReference.cache
+C:\Users\pongk\Downloads\MlAutoResrv\TestForm\obj\Release\TestForm.Form1.resources
+C:\Users\pongk\Downloads\MlAutoResrv\TestForm\obj\Release\TestForm.Properties.Resources.resources
+C:\Users\pongk\Downloads\MlAutoResrv\TestForm\obj\Release\TestForm.csproj.GenerateResource.cache
+C:\Users\pongk\Downloads\MlAutoResrv\TestForm\obj\Release\TestForm.csproj.CoreCompileInputs.cache
+C:\Users\pongk\Downloads\MlAutoResrv\TestForm\obj\Release\TestForm.csproj.CopyComplete
+C:\Users\pongk\Downloads\MlAutoResrv\TestForm\obj\Release\TestForm.exe
+C:\Users\pongk\Downloads\MlAutoResrv\TestForm\obj\Release\TestForm.pdb

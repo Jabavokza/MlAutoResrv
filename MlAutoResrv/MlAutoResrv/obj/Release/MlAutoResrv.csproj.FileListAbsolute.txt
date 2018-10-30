@@ -1,0 +1,44 @@
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\MlAutoResrv\bin\Release\MlAutoResrv.dll
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\MlAutoResrv\bin\Release\MlAutoResrv.pdb
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\MlAutoResrv\bin\Release\Newtonsoft.Json.dll
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\MlAutoResrv\bin\Release\Newtonsoft.Json.pdb
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\MlAutoResrv\bin\Release\Newtonsoft.Json.xml
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\MlAutoResrv\obj\Release\MlAutoResrv.csproj.CoreCompileInputs.cache
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\MlAutoResrv\obj\Release\MlAutoResrv.csproj.CopyComplete
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\MlAutoResrv\obj\Release\MlAutoResrv.dll
+C:\Users\Adasoft\documents\visual studio 2017\Projects\MlAutoResrv\MlAutoResrv\obj\Release\MlAutoResrv.pdb
+D:\Project\Pong\Project\MlAutoResrv\MlAutoResrv\obj\Release\MlAutoResrv.csproj.CoreCompileInputs.cache
+D:\Project\Pong\Project\MlAutoResrv\MlAutoResrv\obj\Release\MlAutoResrv.dll
+D:\Project\Pong\Project\MlAutoResrv\MlAutoResrv\obj\Release\MlAutoResrv.pdb
+D:\Project\Pong\Project\MlAutoResrv\MlAutoResrv\bin\Release\MlAutoResrv.dll
+D:\Project\Pong\Project\MlAutoResrv\MlAutoResrv\bin\Release\MlAutoResrv.pdb
+D:\Project\Pong\Project\MlAutoResrv\MlAutoResrv\bin\Release\Newtonsoft.Json.dll
+D:\Project\Pong\Project\MlAutoResrv\MlAutoResrv\bin\Release\Newtonsoft.Json.pdb
+D:\Project\Pong\Project\MlAutoResrv\MlAutoResrv\bin\Release\Newtonsoft.Json.xml
+D:\Project\Pong\Project\MlAutoResrv\MlAutoResrv\obj\Release\MlAutoResrv.csproj.CopyComplete
+D:\Project\Pong\Project\MlAutoResrv\MlAutoResrv\bin\Release\log4net.dll
+D:\Project\Pong\Project\MlAutoResrv\MlAutoResrv\bin\Release\log4net.xml
+D:\Project\Pong\Project\MlAutoResrv\MlAutoResrv\obj\Release\MlAutoResrv.csprojResolveAssemblyReference.cache
+C:\Users\pongk\Downloads\MlAutoResrv\MlAutoResrv\bin\Release\MlAutoResrv.dll
+C:\Users\pongk\Downloads\MlAutoResrv\MlAutoResrv\bin\Release\MlAutoResrv.pdb
+C:\Users\pongk\Downloads\MlAutoResrv\MlAutoResrv\bin\Release\log4net.dll
+C:\Users\pongk\Downloads\MlAutoResrv\MlAutoResrv\bin\Release\Newtonsoft.Json.dll
+C:\Users\pongk\Downloads\MlAutoResrv\MlAutoResrv\bin\Release\log4net.xml
+C:\Users\pongk\Downloads\MlAutoResrv\MlAutoResrv\bin\Release\Newtonsoft.Json.xml
+C:\Users\pongk\Downloads\MlAutoResrv\MlAutoResrv\obj\Release\MlAutoResrv.csproj.CoreCompileInputs.cache
+C:\Users\pongk\Downloads\MlAutoResrv\MlAutoResrv\obj\Release\MlAutoResrv.csproj.CopyComplete
+C:\Users\pongk\Downloads\MlAutoResrv\MlAutoResrv\obj\Release\MlAutoResrv.dll
+C:\Users\pongk\Downloads\MlAutoResrv\MlAutoResrv\obj\Release\MlAutoResrv.pdb
+C:\Users\pongk\Downloads\MlAutoResrv\MlAutoResrv\bin\Release\MlAutoResrv.tlb
+C:\Users\pongk\Downloads\MlAutoResrv\MlAutoResrv\obj\Release\MlAutoResrv.csprojAssemblyReference.cache
+D:\Phakin\ProjectThemall\MlAutoResrv\MlAutoResrv\bin\Release\MlAutoResrv.dll
+D:\Phakin\ProjectThemall\MlAutoResrv\MlAutoResrv\bin\Release\MlAutoResrv.pdb
+D:\Phakin\ProjectThemall\MlAutoResrv\MlAutoResrv\bin\Release\MlAutoResrv.tlb
+D:\Phakin\ProjectThemall\MlAutoResrv\MlAutoResrv\bin\Release\log4net.dll
+D:\Phakin\ProjectThemall\MlAutoResrv\MlAutoResrv\bin\Release\Newtonsoft.Json.dll
+D:\Phakin\ProjectThemall\MlAutoResrv\MlAutoResrv\bin\Release\log4net.xml
+D:\Phakin\ProjectThemall\MlAutoResrv\MlAutoResrv\bin\Release\Newtonsoft.Json.xml
+D:\Phakin\ProjectThemall\MlAutoResrv\MlAutoResrv\obj\Release\MlAutoResrv.csproj.CoreCompileInputs.cache
+D:\Phakin\ProjectThemall\MlAutoResrv\MlAutoResrv\obj\Release\MlAutoResrv.csproj.CopyComplete
+D:\Phakin\ProjectThemall\MlAutoResrv\MlAutoResrv\obj\Release\MlAutoResrv.dll
+D:\Phakin\ProjectThemall\MlAutoResrv\MlAutoResrv\obj\Release\MlAutoResrv.pdb

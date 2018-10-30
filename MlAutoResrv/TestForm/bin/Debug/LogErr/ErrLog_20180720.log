@@ -1,0 +1,20 @@
+2018-07-20 16:02:48,934 [1] DEBUG - Send Request to : http://localhost:59011/Reservation
+<<<======JsonREQ======>>>
+{"ReservationReq":{"Header":{"PSTNG_DATE":"20180720","DOC_DATE":"20180720","POS_TRANSID":"9000100001","ACTION":"UPDATE","Item":[{"PLANT":"17KB","STGR_LOC":"1001","MOVE_TYPE":"311","ENTRY_QNT":"2.0","ENTRY_UOM":"EA","MOVE_PLANT":"17KB","EAN_UPC":"8855451002477","SERIAL":[{"MATDOC_ITM":"0001","SERIALNO":"098765439765"}]}]}}}
+<<<======EndJsonREQ======>>>
+2018-07-20 16:02:56,472 [1] DEBUG - Send Request to : http://localhost:59011/Reservation
+<<<======JsonREQ======>>>
+{"ReservationReq":{"Header":{"PSTNG_DATE":"20180720","DOC_DATE":"20180720","POS_TRANSID":"9000100001","ACTION":"UPDATE","Item":[{"PLANT":"17KB","STGR_LOC":"1001","MOVE_TYPE":"311","ENTRY_QNT":"2.0","ENTRY_UOM":"EA","MOVE_PLANT":"17KB","EAN_UPC":"8855451002477","SERIAL":[{"MATDOC_ITM":"0001","SERIALNO":"098765439765"}]}]}}}
+<<<======EndJsonREQ======>>>
+2018-07-20 16:59:42,418 [1] DEBUG - Send Request to : http://localhost:59011/Reservation
+<<<======JsonREQ======>>>
+{"ReservationReq":{"Header":{"PSTNG_DATE":"20180720","DOC_DATE":"20180720","POS_TRANSID":"9000100001","ACTION":"UPDATE","Item":[{"PLANT":"17KB","STGR_LOC":"1001","MOVE_TYPE":"311","ENTRY_QNT":"2.0","ENTRY_UOM":"EA","MOVE_PLANT":"17KB","EAN_UPC":"8855451002477","SERIAL":[{"MATDOC_ITM":"0001","SERIALNO":"098765439765"}]}]}}}
+<<<======EndJsonREQ======>>>
+2018-07-20 17:00:22,394 [1] DEBUG - Send Request to : http://localhost:59011/Reservation
+<<<======JsonREQ======>>>
+{"ReservationReq":{"Header":{"PSTNG_DATE":"20180720","DOC_DATE":"20180720","POS_TRANSID":"9000100001","ACTION":"UPDATE","Item":[{"PLANT":"17KB","STGR_LOC":"1001","MOVE_TYPE":"311","ENTRY_QNT":"2.0","ENTRY_UOM":"EA","MOVE_PLANT":"17KB","EAN_UPC":"8855451002477","SERIAL":[{"MATDOC_ITM":"0001","SERIALNO":"098765439765"}]}]}}}
+<<<======EndJsonREQ======>>>
+2018-07-20 17:02:02,655 [1] DEBUG - Send Request to : http://localhost:59011/Reservation
+<<<======JsonREQ======>>>
+{"ReservationReq":{"Header":{"PSTNG_DATE":"20180720","DOC_DATE":"20180720","POS_TRANSID":"9000100001","ACTION":"UPDATE","Item":[{"PLANT":"17KB","STGR_LOC":"1001","MOVE_TYPE":"311","ENTRY_QNT":"2.0","ENTRY_UOM":"EA","MOVE_PLANT":"17KB","EAN_UPC":"8855451002477","SERIAL":[{"MATDOC_ITM":"0001","SERIALNO":"098765439765"}]}]}}}
+<<<======EndJsonREQ======>>>

@@ -1,0 +1,4 @@
+2018-10-26 19:06:02,914 [1] DEBUG - Send Request to : http://wdipid.themall.co.th:8080/RESTAdapter/TMGPOS/v1/ReceiveReservation
+<<<======JsonREQ======>>>
+{"ReservationReq":{"Header":{"PSTNG_DATE":"25611026","DOC_DATE":"25611026","POS_TRANSID":"9000100001","ACTION":"CHECK","STORE":"17","Item":[{"PLANT":"17KB","STGR_LOC":"1001","MOVE_TYPE":"311","ENTRY_QNT":"2.0","ENTRY_UOM":"EA","MOVE_PLANT":"17KB","EAN_UPC":"8855451002477","SERIAL":[]}]}}}
+<<<======EndJsonREQ======>>>
