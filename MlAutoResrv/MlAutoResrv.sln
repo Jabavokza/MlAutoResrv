@@ -28,4 +28,15 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {37DB4AFE-CCBE-42FB-BD12-60544DC30A96}
 	EndGlobalSection
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccLocalPath0 = .
+		CanCheckoutShared = true
+		SccProjectUniqueName1 = MlAutoResrv\\MlAutoResrv.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = MlAutoResrv\\
+		SccProjectUniqueName2 = TestForm\\TestForm.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = TestForm\\
+	EndGlobalSection
 EndGlobal

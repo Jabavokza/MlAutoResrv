@@ -46,3 +46,15 @@ D:\Phakin\ProjectThemall\MlAutoResrv\MlAutoResrv\obj\Debug\MlAutoResrv.csproj.Co
 D:\Phakin\ProjectThemall\MlAutoResrv\MlAutoResrv\obj\Debug\MlAutoResrv.csproj.CopyComplete
 D:\Phakin\ProjectThemall\MlAutoResrv\MlAutoResrv\obj\Debug\MlAutoResrv.dll
 D:\Phakin\ProjectThemall\MlAutoResrv\MlAutoResrv\obj\Debug\MlAutoResrv.pdb
+D:\Project\2018\MlAutoResrv\MlAutoResrv\bin\Debug\MlAutoResrv.dll
+D:\Project\2018\MlAutoResrv\MlAutoResrv\bin\Debug\MlAutoResrv.pdb
+D:\Project\2018\MlAutoResrv\MlAutoResrv\bin\Debug\MlAutoResrv.tlb
+D:\Project\2018\MlAutoResrv\MlAutoResrv\bin\Debug\log4net.dll
+D:\Project\2018\MlAutoResrv\MlAutoResrv\bin\Debug\Newtonsoft.Json.dll
+D:\Project\2018\MlAutoResrv\MlAutoResrv\bin\Debug\log4net.xml
+D:\Project\2018\MlAutoResrv\MlAutoResrv\bin\Debug\Newtonsoft.Json.xml
+D:\Project\2018\MlAutoResrv\MlAutoResrv\obj\Debug\MlAutoResrv.csprojAssemblyReference.cache
+D:\Project\2018\MlAutoResrv\MlAutoResrv\obj\Debug\MlAutoResrv.csproj.CoreCompileInputs.cache
+D:\Project\2018\MlAutoResrv\MlAutoResrv\obj\Debug\MlAutoResrv.csproj.CopyComplete
+D:\Project\2018\MlAutoResrv\MlAutoResrv\obj\Debug\MlAutoResrv.dll
+D:\Project\2018\MlAutoResrv\MlAutoResrv\obj\Debug\MlAutoResrv.pdb
